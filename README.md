@@ -19,8 +19,8 @@
 
 三.软件截图：
 -------------
-![image](https://github.com/zxfnicholas/Pinterest/blob/master/screenshots/1jpg)
-![image](https://github.com/zxfnicholas/Pinterest/blob/master/screenshots/2.jpg)
+![image](https://github.com/zxfnicholas/Pinterest/blob/master/Screenshots/1.jpg)
+![image](https://github.com/zxfnicholas/Pinterest/blob/master/Screenshots/2.jpg)
 
 四.意见反馈：
 -------------
