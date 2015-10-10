@@ -13,7 +13,7 @@
          app:pstsDividerColor="@android:color/transparent"         
          app:pstsUnderlineColor="@android:color/darker_gray"
          app:pstsUnderlineHeight="0.5dip"
-         app:pstsIndicatorColor="@android:color/darker_gray"	        
+         app:pstsIndicatorColor="#ff8500"	        
          app:pstsIndicatorHeight="3.0dip"/>
          
          

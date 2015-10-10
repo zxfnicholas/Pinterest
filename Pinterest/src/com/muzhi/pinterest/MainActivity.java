@@ -33,16 +33,14 @@ public class MainActivity extends FragmentActivity {
 
 		fragments = new ArrayList<Fragment>();	
 		
-		FragmentPlaFeeds mHomeFeedsFragment1=FragmentPlaFeeds.newInstance(1);
-		FragmentPlaFeeds mHomeFeedsFragment2=FragmentPlaFeeds.newInstance(1);
-		FragmentPlaFeeds mHomeFeedsFragment3=FragmentPlaFeeds.newInstance(1);
+		FragmentFeeds mHomeFeedsFragment1=FragmentFeeds.newInstance(1);
+		FragmentFeeds2 mHomeFeedsFragment2=FragmentFeeds2.newInstance(1);
 		
 		fragments.add(mHomeFeedsFragment1);
 		fragments.add(mHomeFeedsFragment2);
-		fragments.add(mHomeFeedsFragment3);
 		
 		
-		fragmentAdapter=new MyFragmentPagerAdapter(getSupportFragmentManager(),fragments,new String[]{"最新","热门","推荐"});
+		fragmentAdapter=new MyFragmentPagerAdapter(getSupportFragmentManager(),fragments,new String[]{"最新","热门"});
 		mViewPager.setAdapter(fragmentAdapter);		
 		mpager_tab_strip.setViewPager(mViewPager);
 		mViewPager.setOffscreenPageLimit(1);
