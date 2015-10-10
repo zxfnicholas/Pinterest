@@ -15,7 +15,7 @@
 -------------
 
 >  - 1.瀑布流加载图片
->  - 2.下拉刷新
+>  - 2.提供两种下拉刷新方式(普通下拉及Android的SwipeRefreshLayout)
 >  - 3.到底自动加载更多
 
 
@@ -24,6 +24,7 @@
 -------------
 ![image](https://github.com/zxfnicholas/Pinterest/blob/master/Screenshots/1.jpg)
 ![image](https://github.com/zxfnicholas/Pinterest/blob/master/Screenshots/2.jpg)
+![image](https://github.com/zxfnicholas/Pinterest/blob/master/Screenshots/3.jpg)
 
 四.意见反馈：
 -------------
